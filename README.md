@@ -10,6 +10,3 @@ Both stage1.h and Stage1Main.C were provided by the professor to help create our
 
 The stage11.cpp files contains the overall compiler structure. With the way, the class was set up, we were only allowed to submit one file with all the code,
     which is why all functions are crammed into the .cpp file. 
-
-
-git remote add origin https://github.com/<NightlyPenguin>/PascalliteCompiler.git
