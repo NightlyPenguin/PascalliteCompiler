@@ -1,4 +1,4 @@
-# PascalCompiler
+# Pascal Compiler
 
 The finals Project for Algorithms and Compilers class (CS 4301):
     
